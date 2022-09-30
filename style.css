@@ -1,0 +1,21 @@
+body
+{
+    background-color:lightblue;
+    /* border-color: black; */
+    /* border-style: double; */
+    /* margin:20px; */
+}
+h1{
+    padding-left:200px;
+    font-size:500%;
+}
+ul{
+    font-size: 250%;
+}
+.page_1
+{
+    font-size: 30px;
+    border-color:black;
+    border-style: double;
+    padding:20%;
+}
